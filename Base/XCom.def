@@ -1,0 +1,17 @@
+LIBRARY	"XCom"
+EXPORTS
+	GetClassObject
+	DestroyObject
+	GetClassNames
+	DllRegisterServer	PRIVATE
+	DllCanUnloadNow		PRIVATE
+	GetInitDone
+	GetLoader
+	functions
+	GetWndProc
+	GetLogHook
+	GetPipe
+	GetDest
+	Lock
+	GetWinFunctions
+	GetEvents
