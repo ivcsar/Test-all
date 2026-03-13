@@ -1,0 +1,5 @@
+LIBRARY	"XNative"
+EXPORTS
+	GetClassObject
+	DestroyObject
+	GetClassNames
